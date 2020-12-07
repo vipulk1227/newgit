@@ -6,6 +6,7 @@ public class Class4 {
 		// TODO Auto-generated method stub
 
 		System.out.println("this is the fourth class");
+		.
 	}
 
 }
